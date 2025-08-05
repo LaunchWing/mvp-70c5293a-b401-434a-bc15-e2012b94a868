@@ -1,0 +1,7 @@
+name = "mvp-70c5293a-b401-434a-bc15-e2012b94a868"
+main = "functions/index.ts"
+compatibility_date = "2024-08-01"
+
+kv_namespaces = [
+  { binding = "SUBMISSIONS_KV", id = "REPLACE_ME" }
+]
